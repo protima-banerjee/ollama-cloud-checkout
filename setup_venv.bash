@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VENV_NAME=~/.virtualenvs/ollama_cloud
+VENV_NAME=~/.virtualenvs/ollama-cloud-checkout
 PYTHON=/opt/homebrew/bin/python3.14
 
 # Create the virtual environment
