@@ -1,0 +1,5 @@
+# dependencies
+ollama
+langchain
+langchain-community
+requests
